@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: 792373136340.dkr.ecr.us-east-2.amazonaws.com/cisco_pov:0b8250b5ab48044faf2205aa3a5b1be15c925f20
+          image: 792373136340.dkr.ecr.us-east-2.amazonaws.com/cisco_pov:266e2f3262a80f737211addabc7ab58de63640bc
 
 ---
 #Service
